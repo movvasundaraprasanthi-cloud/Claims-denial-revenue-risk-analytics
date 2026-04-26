@@ -1,0 +1,1 @@
+Authorization and Medical Necessity denials typically create higher revenue risk; payer-level rework trends can reveal process inefficiencies

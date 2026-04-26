@@ -1,0 +1,701 @@
+claim_id,submission_date,payer,region,specialty,denial_reason,claim_amount,status,resolution_days,rework_flag,paid_after_rework_flag
+C000001,2025-01-28,BCBS,NY,Cardiology,Non-covered Service,1013.83,Denied,40,0,0
+C000002,2025-05-27,Aetna,AZ,Neurology,Timely Filing,1650.28,Paid After Rework,33,1,1
+C000003,2025-05-12,Cigna,AZ,Oncology,Eligibility,1844.07,Paid After Rework,45,1,1
+C000004,2025-04-28,Aetna,CA,Primary Care,Non-covered Service,680.38,Pending Review,28,0,0
+C000005,2025-03-13,Cigna,NY,Oncology,Eligibility,241.48,Reworked,28,1,0
+C000006,2025-05-04,BCBS,NJ,Neurology,Coding,627.6,Reworked,38,1,0
+C000007,2025-02-23,Humana,CA,Neurology,Eligibility,1439.02,Reworked,42,1,0
+C000008,2025-02-22,BCBS,NY,Radiology,Coding,595.72,Paid After Rework,9,1,1
+C000009,2025-01-07,Humana,TX,Primary Care,Eligibility,674.63,Denied,17,0,0
+C000010,2025-02-27,United,FL,Orthopedics,Coding,924.05,Reworked,7,1,0
+C000011,2025-01-18,Cigna,TX,Neurology,Duplicate,1904.98,Reworked,45,1,0
+C000012,2025-06-17,BCBS,AZ,Cardiology,Duplicate,1323.98,Pending Review,30,0,0
+C000013,2025-02-04,Humana,FL,Neurology,Timely Filing,203.16,Reworked,13,1,0
+C000014,2025-01-02,BCBS,CA,Radiology,Timely Filing,2473.83,Reworked,14,1,0
+C000015,2025-03-29,BCBS,CA,Primary Care,Non-covered Service,1948.33,Reworked,46,1,0
+C000016,2025-04-13,BCBS,FL,Oncology,Eligibility,583.31,Reworked,39,1,0
+C000017,2025-06-15,Aetna,NY,Cardiology,Eligibility,602.86,Denied,24,0,0
+C000018,2025-05-03,United,NY,Oncology,Timely Filing,2343.44,Paid After Rework,11,1,1
+C000019,2025-02-10,BCBS,TX,Cardiology,Authorization,1232.58,Denied,24,0,0
+C000020,2025-03-29,BCBS,TX,Radiology,Authorization,250.41,Pending Review,24,0,0
+C000021,2025-02-03,BCBS,AZ,Primary Care,Medical Necessity,1557.49,Paid After Rework,32,1,1
+C000022,2025-01-29,United,FL,Cardiology,Duplicate,2246.31,Denied,4,0,0
+C000023,2025-06-27,Aetna,FL,Radiology,Duplicate,2091.79,Pending Review,10,0,0
+C000024,2025-06-28,BCBS,AZ,Radiology,Timely Filing,1965.27,Denied,36,0,0
+C000025,2025-04-15,BCBS,TX,Cardiology,Eligibility,2035.76,Denied,46,0,0
+C000026,2025-04-05,Cigna,NJ,Neurology,Timely Filing,724.83,Denied,31,0,0
+C000027,2025-01-11,United,CA,Oncology,Authorization,453.35,Reworked,15,1,0
+C000028,2025-03-02,BCBS,NJ,Oncology,Duplicate,450.2,Pending Review,28,0,0
+C000029,2025-03-27,Humana,FL,Orthopedics,Coding,682.04,Denied,37,0,0
+C000030,2025-03-23,Cigna,FL,Neurology,Timely Filing,2118.58,Reworked,32,1,0
+C000031,2025-01-27,BCBS,TX,Radiology,Authorization,996.62,Reworked,12,1,0
+C000032,2025-04-01,BCBS,CA,Oncology,Duplicate,823.07,Denied,19,0,0
+C000033,2025-02-18,Cigna,NJ,Orthopedics,Authorization,1178.61,Reworked,49,1,0
+C000034,2025-03-02,Aetna,NJ,Orthopedics,Eligibility,1204.13,Denied,7,0,0
+C000035,2025-06-17,Humana,NY,Neurology,Authorization,1909.98,Denied,48,0,0
+C000036,2025-05-10,Humana,NY,Neurology,Duplicate,2456.78,Denied,9,0,0
+C000037,2025-06-17,Humana,TX,Neurology,Timely Filing,204.62,Denied,26,0,0
+C000038,2025-02-06,Cigna,TX,Oncology,Eligibility,832.31,Pending Review,35,0,0
+C000039,2025-01-12,Aetna,FL,Oncology,Coding,1295.08,Reworked,15,1,0
+C000040,2025-05-05,BCBS,CA,Cardiology,Coding,641.67,Pending Review,45,0,0
+C000041,2025-02-15,Cigna,FL,Oncology,Eligibility,1238.75,Denied,33,0,0
+C000042,2025-06-28,Humana,CA,Primary Care,Timely Filing,1797.68,Pending Review,39,0,0
+C000043,2025-03-05,United,TX,Neurology,Authorization,1545.97,Reworked,47,1,0
+C000044,2025-02-05,Humana,CA,Neurology,Authorization,2046.52,Denied,30,0,0
+C000045,2025-04-06,Humana,TX,Oncology,Non-covered Service,2463.34,Pending Review,5,0,0
+C000046,2025-06-01,Cigna,AZ,Oncology,Non-covered Service,1943.65,Paid After Rework,2,1,1
+C000047,2025-04-04,BCBS,NJ,Neurology,Non-covered Service,1551.2,Denied,19,0,0
+C000048,2025-05-17,Cigna,AZ,Orthopedics,Medical Necessity,2053.21,Pending Review,34,0,0
+C000049,2025-01-19,Aetna,FL,Orthopedics,Non-covered Service,1578.12,Reworked,23,1,0
+C000050,2025-02-09,Cigna,CA,Neurology,Timely Filing,1432.91,Reworked,6,1,0
+C000051,2025-03-10,United,TX,Oncology,Non-covered Service,721.14,Denied,3,0,0
+C000052,2025-06-22,Humana,TX,Cardiology,Duplicate,2401.49,Denied,47,0,0
+C000053,2025-05-25,Humana,FL,Primary Care,Coding,1656.42,Paid After Rework,12,1,1
+C000054,2025-03-11,Humana,NY,Neurology,Duplicate,1304.93,Pending Review,15,0,0
+C000055,2025-03-31,Humana,TX,Primary Care,Duplicate,1741.34,Paid After Rework,44,1,1
+C000056,2025-04-05,BCBS,CA,Neurology,Authorization,325.72,Denied,43,0,0
+C000057,2025-01-28,United,AZ,Primary Care,Coding,1604.66,Denied,34,0,0
+C000058,2025-01-25,Aetna,AZ,Primary Care,Timely Filing,597.33,Denied,45,0,0
+C000059,2025-05-07,BCBS,FL,Neurology,Non-covered Service,195.34,Denied,24,0,0
+C000060,2025-04-14,Humana,NY,Neurology,Timely Filing,882.36,Paid After Rework,19,1,1
+C000061,2025-03-16,Aetna,NJ,Neurology,Eligibility,948.31,Pending Review,11,0,0
+C000062,2025-01-05,Aetna,AZ,Orthopedics,Eligibility,2164.73,Paid After Rework,3,1,1
+C000063,2025-05-09,Cigna,CA,Radiology,Timely Filing,2358.51,Denied,16,0,0
+C000064,2025-06-29,BCBS,TX,Oncology,Authorization,2144.5,Pending Review,34,0,0
+C000065,2025-02-28,United,NJ,Primary Care,Authorization,2125.16,Reworked,44,1,0
+C000066,2025-06-28,Cigna,CA,Cardiology,Timely Filing,1205.34,Pending Review,28,0,0
+C000067,2025-05-28,United,NJ,Orthopedics,Eligibility,1490.46,Reworked,42,1,0
+C000068,2025-01-07,Aetna,FL,Cardiology,Non-covered Service,595.9,Pending Review,5,0,0
+C000069,2025-05-29,Cigna,FL,Neurology,Duplicate,1023.1,Pending Review,19,0,0
+C000070,2025-03-05,Humana,FL,Cardiology,Authorization,1818.79,Paid After Rework,14,1,1
+C000071,2025-06-01,United,CA,Orthopedics,Timely Filing,1915.62,Pending Review,12,0,0
+C000072,2025-03-03,Cigna,NY,Neurology,Medical Necessity,2353.46,Pending Review,37,0,0
+C000073,2025-01-04,United,NJ,Oncology,Coding,1021.52,Denied,37,0,0
+C000074,2025-05-01,Humana,CA,Neurology,Authorization,2409.92,Paid After Rework,10,1,1
+C000075,2025-05-12,Cigna,NY,Neurology,Non-covered Service,1223.54,Paid After Rework,44,1,1
+C000076,2025-06-15,United,AZ,Orthopedics,Non-covered Service,1817.87,Denied,6,0,0
+C000077,2025-04-21,Aetna,CA,Radiology,Coding,2047.57,Denied,16,0,0
+C000078,2025-04-24,United,NJ,Neurology,Timely Filing,1687.53,Paid After Rework,11,1,1
+C000079,2025-01-21,BCBS,NY,Orthopedics,Authorization,1620.07,Denied,23,0,0
+C000080,2025-02-10,Humana,NY,Orthopedics,Timely Filing,278.85,Denied,4,0,0
+C000081,2025-06-04,Humana,NY,Primary Care,Eligibility,864.14,Paid After Rework,32,1,1
+C000082,2025-06-15,Cigna,AZ,Cardiology,Medical Necessity,1191.68,Reworked,2,1,0
+C000083,2025-04-22,Cigna,FL,Neurology,Timely Filing,1448.48,Pending Review,31,0,0
+C000084,2025-01-15,BCBS,CA,Orthopedics,Authorization,1904.65,Paid After Rework,39,1,1
+C000085,2025-03-01,BCBS,NY,Oncology,Non-covered Service,2240.4,Pending Review,23,0,0
+C000086,2025-02-21,Cigna,AZ,Cardiology,Non-covered Service,1771.68,Reworked,7,1,0
+C000087,2025-03-05,Aetna,NY,Primary Care,Timely Filing,2243.36,Paid After Rework,16,1,1
+C000088,2025-05-26,Aetna,FL,Primary Care,Duplicate,1541.3,Denied,6,0,0
+C000089,2025-02-01,BCBS,NY,Cardiology,Timely Filing,357.1,Denied,10,0,0
+C000090,2025-06-04,Cigna,CA,Radiology,Eligibility,1039.87,Paid After Rework,43,1,1
+C000091,2025-05-18,Humana,NY,Orthopedics,Duplicate,2468.41,Paid After Rework,13,1,1
+C000092,2025-02-18,Cigna,TX,Cardiology,Authorization,1825.33,Denied,18,0,0
+C000093,2025-03-20,Humana,FL,Oncology,Medical Necessity,1445.87,Reworked,11,1,0
+C000094,2025-02-24,Humana,TX,Radiology,Coding,1621.69,Denied,48,0,0
+C000095,2025-01-16,Aetna,TX,Orthopedics,Duplicate,1514.57,Denied,46,0,0
+C000096,2025-03-11,Humana,CA,Radiology,Authorization,233.68,Pending Review,47,0,0
+C000097,2025-01-21,United,NJ,Orthopedics,Coding,308.1,Denied,11,0,0
+C000098,2025-01-11,BCBS,CA,Radiology,Eligibility,523.27,Denied,12,0,0
+C000099,2025-05-23,Cigna,FL,Oncology,Authorization,1929.71,Denied,27,0,0
+C000100,2025-04-21,United,AZ,Cardiology,Coding,1950.05,Denied,46,0,0
+C000101,2025-04-27,Aetna,CA,Neurology,Eligibility,2386.04,Pending Review,23,0,0
+C000102,2025-03-30,BCBS,CA,Primary Care,Authorization,1160.09,Denied,14,0,0
+C000103,2025-01-09,BCBS,NJ,Neurology,Eligibility,1619.97,Denied,38,0,0
+C000104,2025-01-15,Humana,FL,Cardiology,Non-covered Service,1475.6,Paid After Rework,16,1,1
+C000105,2025-03-26,Humana,CA,Orthopedics,Medical Necessity,239.96,Reworked,43,1,0
+C000106,2025-03-26,BCBS,TX,Oncology,Coding,1004.33,Reworked,5,1,0
+C000107,2025-02-19,Aetna,NJ,Neurology,Authorization,1798.08,Denied,9,0,0
+C000108,2025-03-22,United,FL,Primary Care,Non-covered Service,1601.09,Pending Review,42,0,0
+C000109,2025-02-10,Aetna,TX,Cardiology,Timely Filing,1583.85,Paid After Rework,12,1,1
+C000110,2025-01-03,BCBS,FL,Neurology,Non-covered Service,766.59,Denied,31,0,0
+C000111,2025-02-07,United,CA,Neurology,Authorization,1288.91,Denied,42,0,0
+C000112,2025-05-07,BCBS,TX,Orthopedics,Coding,2031.22,Reworked,14,1,0
+C000113,2025-02-28,United,NJ,Oncology,Timely Filing,2443.72,Reworked,5,1,0
+C000114,2025-04-19,Aetna,TX,Primary Care,Duplicate,1771.38,Reworked,5,1,0
+C000115,2025-06-15,Humana,NJ,Primary Care,Authorization,1109.74,Denied,28,0,0
+C000116,2025-03-03,BCBS,AZ,Primary Care,Non-covered Service,800.39,Denied,18,0,0
+C000117,2025-01-14,Cigna,CA,Radiology,Authorization,130.62,Denied,9,0,0
+C000118,2025-04-18,Humana,NJ,Neurology,Duplicate,1349.09,Denied,5,0,0
+C000119,2025-03-31,Humana,AZ,Cardiology,Coding,878.97,Denied,48,0,0
+C000120,2025-03-01,BCBS,CA,Orthopedics,Medical Necessity,2366.7,Denied,23,0,0
+C000121,2025-03-03,United,FL,Neurology,Eligibility,923.07,Denied,48,0,0
+C000122,2025-06-27,United,NY,Cardiology,Medical Necessity,264.97,Paid After Rework,44,1,1
+C000123,2025-01-15,BCBS,CA,Neurology,Coding,1201.76,Denied,38,0,0
+C000124,2025-04-08,United,CA,Primary Care,Eligibility,943.73,Denied,17,0,0
+C000125,2025-05-10,Aetna,TX,Oncology,Non-covered Service,211.53,Denied,16,0,0
+C000126,2025-06-16,Cigna,TX,Radiology,Coding,2347.86,Paid After Rework,41,1,1
+C000127,2025-03-11,Humana,NY,Oncology,Duplicate,1023.23,Pending Review,14,0,0
+C000128,2025-02-19,United,NY,Orthopedics,Eligibility,921.89,Reworked,45,1,0
+C000129,2025-01-01,United,CA,Primary Care,Coding,1840.25,Pending Review,23,0,0
+C000130,2025-01-31,United,CA,Neurology,Coding,1705.31,Reworked,48,1,0
+C000131,2025-06-11,Humana,FL,Cardiology,Duplicate,2166.22,Denied,14,0,0
+C000132,2025-02-04,Aetna,AZ,Primary Care,Duplicate,1247.59,Paid After Rework,29,1,1
+C000133,2025-06-26,Humana,NY,Oncology,Authorization,309.63,Denied,31,0,0
+C000134,2025-03-15,BCBS,CA,Radiology,Non-covered Service,342.74,Pending Review,29,0,0
+C000135,2025-06-18,Humana,NJ,Primary Care,Non-covered Service,2127.01,Paid After Rework,4,1,1
+C000136,2025-03-19,BCBS,NJ,Cardiology,Eligibility,1372.76,Denied,49,0,0
+C000137,2025-01-25,BCBS,NY,Cardiology,Eligibility,1877.7,Pending Review,44,0,0
+C000138,2025-02-14,Aetna,AZ,Orthopedics,Duplicate,2203.38,Pending Review,47,0,0
+C000139,2025-06-05,United,FL,Cardiology,Coding,1993.73,Denied,25,0,0
+C000140,2025-03-17,BCBS,NJ,Neurology,Duplicate,1423.54,Denied,31,0,0
+C000141,2025-05-30,BCBS,CA,Radiology,Duplicate,2003.61,Pending Review,31,0,0
+C000142,2025-01-20,Aetna,CA,Radiology,Authorization,2472.76,Reworked,34,1,0
+C000143,2025-02-21,United,NY,Oncology,Duplicate,204.02,Denied,34,0,0
+C000144,2025-01-22,United,NY,Neurology,Timely Filing,755.31,Denied,30,0,0
+C000145,2025-04-15,Aetna,NJ,Radiology,Non-covered Service,2092.55,Denied,30,0,0
+C000146,2025-03-14,Aetna,TX,Orthopedics,Medical Necessity,1545.96,Denied,31,0,0
+C000147,2025-04-23,Cigna,FL,Oncology,Medical Necessity,988.9,Reworked,41,1,0
+C000148,2025-01-30,Cigna,CA,Oncology,Authorization,152.87,Denied,30,0,0
+C000149,2025-03-28,Humana,TX,Primary Care,Eligibility,2295.2,Denied,20,0,0
+C000150,2025-03-17,Aetna,FL,Neurology,Non-covered Service,2289.3,Denied,29,0,0
+C000151,2025-06-09,BCBS,TX,Neurology,Coding,837.36,Reworked,28,1,0
+C000152,2025-02-23,United,FL,Orthopedics,Coding,1227.72,Denied,44,0,0
+C000153,2025-01-19,Aetna,TX,Neurology,Duplicate,828.45,Paid After Rework,23,1,1
+C000154,2025-05-01,United,AZ,Neurology,Coding,1659.88,Denied,38,0,0
+C000155,2025-03-19,BCBS,NY,Cardiology,Medical Necessity,1206.35,Denied,13,0,0
+C000156,2025-04-08,Humana,FL,Radiology,Medical Necessity,486.64,Paid After Rework,34,1,1
+C000157,2025-01-07,BCBS,FL,Primary Care,Duplicate,598.03,Denied,15,0,0
+C000158,2025-02-27,United,AZ,Neurology,Medical Necessity,2064.02,Denied,26,0,0
+C000159,2025-04-25,BCBS,FL,Radiology,Authorization,2290.2,Paid After Rework,18,1,1
+C000160,2025-01-13,Aetna,FL,Orthopedics,Coding,1355.63,Reworked,22,1,0
+C000161,2025-06-05,Humana,NJ,Orthopedics,Coding,1873.66,Pending Review,29,0,0
+C000162,2025-05-23,United,NJ,Neurology,Non-covered Service,1121.67,Pending Review,18,0,0
+C000163,2025-01-19,Humana,FL,Radiology,Coding,1472.57,Paid After Rework,33,1,1
+C000164,2025-06-04,Aetna,TX,Cardiology,Non-covered Service,2057.9,Denied,49,0,0
+C000165,2025-04-18,BCBS,NY,Orthopedics,Non-covered Service,966.74,Denied,46,0,0
+C000166,2025-02-11,Humana,TX,Orthopedics,Medical Necessity,274.35,Paid After Rework,6,1,1
+C000167,2025-05-07,Humana,NJ,Oncology,Duplicate,1124.11,Denied,45,0,0
+C000168,2025-03-19,United,NJ,Neurology,Coding,309.78,Denied,31,0,0
+C000169,2025-03-29,Humana,CA,Primary Care,Medical Necessity,1968.25,Denied,37,0,0
+C000170,2025-05-08,Humana,CA,Orthopedics,Coding,380.47,Denied,15,0,0
+C000171,2025-01-18,United,AZ,Orthopedics,Authorization,1439.85,Pending Review,35,0,0
+C000172,2025-01-10,Humana,FL,Oncology,Medical Necessity,615.45,Reworked,13,1,0
+C000173,2025-05-11,BCBS,FL,Cardiology,Timely Filing,1408.08,Pending Review,34,0,0
+C000174,2025-01-22,BCBS,TX,Orthopedics,Authorization,1672.2,Paid After Rework,41,1,1
+C000175,2025-06-17,Cigna,NY,Radiology,Timely Filing,2097.35,Reworked,13,1,0
+C000176,2025-03-20,United,CA,Cardiology,Duplicate,1926.84,Denied,19,0,0
+C000177,2025-04-12,Humana,NY,Orthopedics,Eligibility,1984.74,Denied,37,0,0
+C000178,2025-06-23,Aetna,NY,Cardiology,Medical Necessity,1171.91,Pending Review,23,0,0
+C000179,2025-02-14,Humana,NY,Radiology,Coding,577.68,Denied,23,0,0
+C000180,2025-03-15,BCBS,NY,Neurology,Duplicate,1425.46,Denied,5,0,0
+C000181,2025-01-21,Cigna,NY,Cardiology,Authorization,1516.12,Denied,36,0,0
+C000182,2025-01-27,United,TX,Cardiology,Coding,1446.18,Reworked,36,1,0
+C000183,2025-04-28,Cigna,TX,Oncology,Eligibility,1423.99,Denied,21,0,0
+C000184,2025-01-07,BCBS,FL,Neurology,Medical Necessity,2438.9,Paid After Rework,4,1,1
+C000185,2025-03-30,Humana,NY,Oncology,Duplicate,1835.56,Reworked,11,1,0
+C000186,2025-05-22,United,TX,Primary Care,Duplicate,2310.84,Reworked,2,1,0
+C000187,2025-01-20,BCBS,FL,Primary Care,Timely Filing,258.68,Denied,18,0,0
+C000188,2025-01-05,BCBS,FL,Neurology,Eligibility,1656.31,Paid After Rework,14,1,1
+C000189,2025-03-02,Cigna,NJ,Neurology,Coding,1369.03,Denied,26,0,0
+C000190,2025-05-19,United,AZ,Primary Care,Duplicate,1128.18,Denied,41,0,0
+C000191,2025-05-11,Aetna,AZ,Neurology,Eligibility,1447.19,Pending Review,37,0,0
+C000192,2025-02-05,Humana,NY,Cardiology,Medical Necessity,998.73,Reworked,9,1,0
+C000193,2025-06-10,BCBS,NY,Primary Care,Non-covered Service,962.25,Pending Review,9,0,0
+C000194,2025-06-24,Humana,FL,Oncology,Duplicate,2414.87,Denied,26,0,0
+C000195,2025-02-08,Aetna,NY,Oncology,Duplicate,1526.6,Denied,32,0,0
+C000196,2025-05-06,BCBS,FL,Orthopedics,Duplicate,2427.7,Pending Review,8,0,0
+C000197,2025-03-23,United,NJ,Radiology,Non-covered Service,1783.36,Pending Review,6,0,0
+C000198,2025-06-09,Cigna,TX,Neurology,Authorization,2030.06,Denied,28,0,0
+C000199,2025-05-14,United,CA,Orthopedics,Duplicate,749.89,Denied,22,0,0
+C000200,2025-04-09,Humana,NY,Cardiology,Non-covered Service,1166.73,Denied,46,0,0
+C000201,2025-05-14,BCBS,TX,Radiology,Eligibility,274.33,Reworked,11,1,0
+C000202,2025-04-12,United,AZ,Primary Care,Non-covered Service,676.71,Denied,27,0,0
+C000203,2025-06-15,Humana,NJ,Oncology,Eligibility,1723.31,Reworked,6,1,0
+C000204,2025-06-08,BCBS,NJ,Orthopedics,Medical Necessity,181.38,Denied,27,0,0
+C000205,2025-01-13,Cigna,AZ,Orthopedics,Authorization,173.54,Paid After Rework,38,1,1
+C000206,2025-02-04,BCBS,CA,Orthopedics,Medical Necessity,1638.97,Paid After Rework,15,1,1
+C000207,2025-04-23,Humana,CA,Cardiology,Coding,1303.14,Denied,32,0,0
+C000208,2025-05-11,Humana,NJ,Orthopedics,Duplicate,2313.97,Denied,35,0,0
+C000209,2025-05-12,United,FL,Neurology,Authorization,1424.44,Paid After Rework,36,1,1
+C000210,2025-02-16,Humana,NJ,Orthopedics,Eligibility,911.14,Paid After Rework,40,1,1
+C000211,2025-05-02,Aetna,NY,Orthopedics,Duplicate,449.32,Denied,19,0,0
+C000212,2025-05-25,Aetna,NJ,Primary Care,Non-covered Service,138.01,Reworked,16,1,0
+C000213,2025-06-23,Cigna,TX,Primary Care,Duplicate,428.25,Denied,24,0,0
+C000214,2025-05-31,BCBS,FL,Oncology,Non-covered Service,745.17,Pending Review,16,0,0
+C000215,2025-03-14,Aetna,FL,Orthopedics,Medical Necessity,2195.22,Paid After Rework,19,1,1
+C000216,2025-03-31,United,NY,Orthopedics,Authorization,203.23,Pending Review,48,0,0
+C000217,2025-02-23,Humana,TX,Orthopedics,Timely Filing,386.38,Reworked,43,1,0
+C000218,2025-01-27,United,NY,Primary Care,Authorization,556.53,Pending Review,17,0,0
+C000219,2025-05-09,United,AZ,Neurology,Coding,1895.63,Pending Review,12,0,0
+C000220,2025-04-09,BCBS,TX,Orthopedics,Non-covered Service,1819.98,Denied,29,0,0
+C000221,2025-05-29,Aetna,TX,Oncology,Authorization,1358.66,Reworked,15,1,0
+C000222,2025-05-07,Cigna,TX,Oncology,Non-covered Service,172.91,Denied,34,0,0
+C000223,2025-04-03,BCBS,NY,Radiology,Non-covered Service,2260.75,Pending Review,24,0,0
+C000224,2025-02-16,Cigna,FL,Primary Care,Authorization,1680.56,Paid After Rework,27,1,1
+C000225,2025-03-18,Humana,TX,Primary Care,Timely Filing,430.74,Paid After Rework,4,1,1
+C000226,2025-03-12,Aetna,TX,Primary Care,Duplicate,1894.6,Denied,28,0,0
+C000227,2025-06-24,Aetna,CA,Neurology,Coding,2130.13,Denied,31,0,0
+C000228,2025-05-11,United,AZ,Primary Care,Non-covered Service,2046.61,Reworked,22,1,0
+C000229,2025-01-29,Aetna,NJ,Orthopedics,Medical Necessity,1891.06,Pending Review,15,0,0
+C000230,2025-01-19,Cigna,NY,Neurology,Eligibility,208.57,Denied,12,0,0
+C000231,2025-04-09,Cigna,FL,Radiology,Non-covered Service,1978.87,Reworked,38,1,0
+C000232,2025-02-08,BCBS,NJ,Neurology,Medical Necessity,1002.62,Denied,7,0,0
+C000233,2025-06-18,Cigna,TX,Cardiology,Duplicate,420.95,Reworked,9,1,0
+C000234,2025-01-05,Cigna,FL,Cardiology,Non-covered Service,1536.48,Denied,23,0,0
+C000235,2025-05-23,BCBS,CA,Orthopedics,Non-covered Service,1532.14,Denied,37,0,0
+C000236,2025-03-06,Aetna,AZ,Radiology,Timely Filing,122.71,Pending Review,36,0,0
+C000237,2025-02-24,United,TX,Cardiology,Authorization,1015.1,Reworked,48,1,0
+C000238,2025-06-22,Aetna,NY,Oncology,Authorization,1780.99,Pending Review,20,0,0
+C000239,2025-02-18,United,CA,Radiology,Non-covered Service,2081.1,Paid After Rework,27,1,1
+C000240,2025-04-19,Aetna,CA,Neurology,Non-covered Service,1387.85,Pending Review,35,0,0
+C000241,2025-04-28,Humana,NJ,Orthopedics,Authorization,1453.63,Pending Review,6,0,0
+C000242,2025-06-04,BCBS,FL,Orthopedics,Timely Filing,2185.78,Reworked,7,1,0
+C000243,2025-03-06,Humana,FL,Neurology,Timely Filing,1861.41,Pending Review,40,0,0
+C000244,2025-02-19,Humana,CA,Radiology,Non-covered Service,645.38,Reworked,47,1,0
+C000245,2025-03-12,Humana,TX,Radiology,Duplicate,208.18,Denied,31,0,0
+C000246,2025-01-07,BCBS,FL,Oncology,Eligibility,432.61,Pending Review,6,0,0
+C000247,2025-05-20,BCBS,NY,Orthopedics,Duplicate,907.86,Denied,8,0,0
+C000248,2025-06-13,United,NY,Primary Care,Duplicate,1068.93,Paid After Rework,10,1,1
+C000249,2025-01-24,BCBS,FL,Radiology,Timely Filing,1158.95,Paid After Rework,9,1,1
+C000250,2025-05-02,Humana,TX,Primary Care,Non-covered Service,2456.1,Paid After Rework,26,1,1
+C000251,2025-05-09,BCBS,FL,Primary Care,Coding,863.39,Paid After Rework,34,1,1
+C000252,2025-03-19,Cigna,TX,Orthopedics,Eligibility,1362.74,Denied,8,0,0
+C000253,2025-03-06,United,FL,Cardiology,Medical Necessity,851.51,Reworked,33,1,0
+C000254,2025-06-21,Humana,AZ,Orthopedics,Authorization,2278.06,Paid After Rework,38,1,1
+C000255,2025-04-06,Cigna,TX,Radiology,Eligibility,691.9,Denied,6,0,0
+C000256,2025-02-23,Aetna,NY,Cardiology,Coding,801.13,Denied,15,0,0
+C000257,2025-06-05,United,NY,Neurology,Medical Necessity,713.62,Paid After Rework,15,1,1
+C000258,2025-05-08,Cigna,NY,Orthopedics,Authorization,2102.81,Paid After Rework,6,1,1
+C000259,2025-06-08,Aetna,CA,Orthopedics,Timely Filing,177.7,Reworked,23,1,0
+C000260,2025-04-26,United,NY,Primary Care,Timely Filing,1489.81,Paid After Rework,35,1,1
+C000261,2025-03-22,Cigna,NJ,Primary Care,Eligibility,1289.9,Reworked,5,1,0
+C000262,2025-02-27,Aetna,TX,Cardiology,Authorization,2178.4,Pending Review,11,0,0
+C000263,2025-05-14,United,CA,Oncology,Duplicate,1456.76,Paid After Rework,7,1,1
+C000264,2025-01-26,Humana,AZ,Primary Care,Eligibility,1432.54,Paid After Rework,28,1,1
+C000265,2025-01-10,United,TX,Radiology,Authorization,1270.41,Denied,41,0,0
+C000266,2025-06-14,BCBS,FL,Oncology,Eligibility,2250.43,Reworked,12,1,0
+C000267,2025-04-08,Humana,AZ,Primary Care,Non-covered Service,929.69,Pending Review,16,0,0
+C000268,2025-05-11,United,TX,Neurology,Eligibility,276.86,Denied,42,0,0
+C000269,2025-02-15,United,NJ,Oncology,Authorization,1735.52,Denied,19,0,0
+C000270,2025-02-03,Humana,TX,Cardiology,Coding,688.5,Denied,25,0,0
+C000271,2025-06-24,United,NY,Cardiology,Medical Necessity,1665.1,Paid After Rework,35,1,1
+C000272,2025-06-08,Humana,CA,Orthopedics,Duplicate,691.57,Denied,18,0,0
+C000273,2025-02-07,BCBS,CA,Orthopedics,Duplicate,370.46,Paid After Rework,29,1,1
+C000274,2025-05-30,Aetna,NY,Orthopedics,Timely Filing,1710.85,Reworked,15,1,0
+C000275,2025-06-26,Cigna,TX,Neurology,Medical Necessity,758.84,Reworked,16,1,0
+C000276,2025-02-03,United,CA,Cardiology,Non-covered Service,2494.19,Paid After Rework,38,1,1
+C000277,2025-05-30,Aetna,NY,Radiology,Coding,1159.84,Denied,22,0,0
+C000278,2025-04-18,Humana,TX,Orthopedics,Non-covered Service,1879.41,Reworked,45,1,0
+C000279,2025-01-15,Cigna,TX,Neurology,Non-covered Service,2494.24,Reworked,6,1,0
+C000280,2025-03-30,Cigna,NY,Orthopedics,Authorization,2049.54,Reworked,43,1,0
+C000281,2025-04-23,BCBS,CA,Orthopedics,Medical Necessity,2260.12,Pending Review,45,0,0
+C000282,2025-02-16,Cigna,TX,Cardiology,Eligibility,1469.65,Denied,15,0,0
+C000283,2025-02-22,United,NY,Primary Care,Non-covered Service,2279.04,Denied,10,0,0
+C000284,2025-06-10,Cigna,FL,Neurology,Non-covered Service,2148.6,Pending Review,3,0,0
+C000285,2025-02-25,BCBS,CA,Primary Care,Medical Necessity,1855.48,Paid After Rework,18,1,1
+C000286,2025-03-17,Humana,NJ,Primary Care,Authorization,2262.37,Paid After Rework,25,1,1
+C000287,2025-05-07,BCBS,NY,Radiology,Duplicate,1846.23,Pending Review,10,0,0
+C000288,2025-06-19,BCBS,NY,Primary Care,Timely Filing,735.59,Denied,6,0,0
+C000289,2025-04-23,United,TX,Oncology,Eligibility,1417.96,Paid After Rework,43,1,1
+C000290,2025-05-14,Humana,AZ,Orthopedics,Eligibility,420.83,Paid After Rework,44,1,1
+C000291,2025-04-09,BCBS,NJ,Oncology,Non-covered Service,2222.8,Reworked,28,1,0
+C000292,2025-02-03,Aetna,NY,Orthopedics,Eligibility,2273.8,Pending Review,18,0,0
+C000293,2025-02-18,Humana,AZ,Radiology,Non-covered Service,553.82,Reworked,9,1,0
+C000294,2025-02-08,Cigna,FL,Radiology,Authorization,2427.25,Paid After Rework,31,1,1
+C000295,2025-03-07,United,FL,Radiology,Medical Necessity,821.31,Paid After Rework,31,1,1
+C000296,2025-03-24,United,NY,Cardiology,Non-covered Service,790.05,Reworked,5,1,0
+C000297,2025-01-30,United,NJ,Radiology,Duplicate,1998.31,Pending Review,8,0,0
+C000298,2025-04-24,Cigna,CA,Radiology,Medical Necessity,1684.22,Pending Review,35,0,0
+C000299,2025-02-07,Humana,AZ,Radiology,Duplicate,1057.82,Denied,26,0,0
+C000300,2025-06-22,Humana,AZ,Neurology,Timely Filing,1546.86,Pending Review,40,0,0
+C000301,2025-01-24,Aetna,CA,Cardiology,Non-covered Service,214.34,Denied,11,0,0
+C000302,2025-05-02,Aetna,AZ,Orthopedics,Medical Necessity,2493.55,Denied,22,0,0
+C000303,2025-02-03,Cigna,NJ,Orthopedics,Duplicate,306.13,Pending Review,35,0,0
+C000304,2025-04-27,Humana,AZ,Orthopedics,Timely Filing,2007.62,Denied,16,0,0
+C000305,2025-05-06,BCBS,NJ,Orthopedics,Medical Necessity,1913.38,Denied,21,0,0
+C000306,2025-03-15,Cigna,NJ,Radiology,Medical Necessity,502.75,Pending Review,14,0,0
+C000307,2025-04-01,Aetna,NY,Orthopedics,Non-covered Service,1458.87,Denied,23,0,0
+C000308,2025-04-26,Aetna,CA,Oncology,Medical Necessity,171.73,Denied,11,0,0
+C000309,2025-05-03,Humana,TX,Cardiology,Duplicate,1279.91,Pending Review,30,0,0
+C000310,2025-02-03,BCBS,FL,Orthopedics,Medical Necessity,2443.11,Pending Review,34,0,0
+C000311,2025-01-20,BCBS,TX,Oncology,Timely Filing,1111.38,Denied,21,0,0
+C000312,2025-02-10,United,NY,Primary Care,Timely Filing,1972.48,Paid After Rework,34,1,1
+C000313,2025-05-23,Aetna,TX,Oncology,Authorization,303.9,Denied,18,0,0
+C000314,2025-06-18,BCBS,NJ,Radiology,Coding,724.68,Paid After Rework,11,1,1
+C000315,2025-06-16,Humana,FL,Oncology,Eligibility,1031.69,Denied,35,0,0
+C000316,2025-02-17,Cigna,TX,Orthopedics,Eligibility,790.87,Paid After Rework,20,1,1
+C000317,2025-06-23,Aetna,NJ,Primary Care,Non-covered Service,2037.56,Denied,20,0,0
+C000318,2025-02-03,United,CA,Orthopedics,Timely Filing,120.63,Paid After Rework,13,1,1
+C000319,2025-06-14,Cigna,NY,Cardiology,Eligibility,2299.32,Paid After Rework,48,1,1
+C000320,2025-06-04,Cigna,NY,Oncology,Coding,635.05,Paid After Rework,4,1,1
+C000321,2025-05-05,BCBS,TX,Cardiology,Medical Necessity,834.87,Denied,39,0,0
+C000322,2025-04-27,United,NJ,Primary Care,Medical Necessity,1693.62,Reworked,47,1,0
+C000323,2025-02-08,United,FL,Radiology,Authorization,201.27,Pending Review,13,0,0
+C000324,2025-05-22,Humana,CA,Radiology,Non-covered Service,2298.38,Denied,42,0,0
+C000325,2025-03-24,Cigna,FL,Orthopedics,Timely Filing,1955.06,Paid After Rework,13,1,1
+C000326,2025-04-16,Cigna,NY,Orthopedics,Eligibility,1639.55,Denied,36,0,0
+C000327,2025-06-16,Cigna,CA,Cardiology,Medical Necessity,212.89,Denied,34,0,0
+C000328,2025-05-30,United,AZ,Oncology,Coding,1840.12,Paid After Rework,10,1,1
+C000329,2025-03-01,Cigna,NY,Radiology,Medical Necessity,2447.53,Denied,30,0,0
+C000330,2025-04-04,Cigna,NJ,Oncology,Eligibility,2500.0,Denied,10,0,0
+C000331,2025-01-15,Humana,NJ,Primary Care,Coding,1785.04,Denied,6,0,0
+C000332,2025-04-30,BCBS,AZ,Oncology,Coding,629.94,Paid After Rework,17,1,1
+C000333,2025-05-20,Aetna,TX,Neurology,Eligibility,2445.79,Reworked,45,1,0
+C000334,2025-03-25,Humana,NJ,Cardiology,Non-covered Service,2150.42,Denied,5,0,0
+C000335,2025-02-26,BCBS,TX,Neurology,Medical Necessity,2035.63,Paid After Rework,36,1,1
+C000336,2025-03-27,United,TX,Primary Care,Eligibility,315.24,Paid After Rework,31,1,1
+C000337,2025-02-04,Humana,FL,Neurology,Duplicate,476.47,Denied,23,0,0
+C000338,2025-05-21,Cigna,FL,Cardiology,Timely Filing,2218.62,Pending Review,8,0,0
+C000339,2025-03-26,Aetna,FL,Radiology,Non-covered Service,1024.97,Denied,25,0,0
+C000340,2025-01-12,Aetna,AZ,Neurology,Duplicate,981.29,Pending Review,45,0,0
+C000341,2025-02-09,Cigna,TX,Oncology,Timely Filing,1438.19,Paid After Rework,8,1,1
+C000342,2025-06-23,United,TX,Cardiology,Eligibility,393.32,Paid After Rework,33,1,1
+C000343,2025-04-04,Aetna,CA,Neurology,Coding,1291.93,Denied,46,0,0
+C000344,2025-03-29,Aetna,AZ,Orthopedics,Non-covered Service,1078.84,Reworked,17,1,0
+C000345,2025-02-24,Cigna,NJ,Orthopedics,Eligibility,1498.56,Reworked,6,1,0
+C000346,2025-05-22,BCBS,NJ,Oncology,Duplicate,758.71,Paid After Rework,17,1,1
+C000347,2025-02-05,Cigna,TX,Oncology,Eligibility,712.08,Denied,11,0,0
+C000348,2025-06-29,Aetna,AZ,Neurology,Timely Filing,222.48,Denied,15,0,0
+C000349,2025-02-26,BCBS,AZ,Oncology,Medical Necessity,555.93,Paid After Rework,7,1,1
+C000350,2025-02-27,BCBS,NY,Radiology,Non-covered Service,926.39,Paid After Rework,25,1,1
+C000351,2025-01-22,Humana,CA,Orthopedics,Eligibility,1662.56,Denied,49,0,0
+C000352,2025-01-29,United,NY,Primary Care,Duplicate,1406.48,Pending Review,5,0,0
+C000353,2025-03-05,BCBS,CA,Oncology,Eligibility,1053.56,Paid After Rework,49,1,1
+C000354,2025-04-25,Cigna,CA,Orthopedics,Authorization,811.86,Reworked,12,1,0
+C000355,2025-05-25,BCBS,NY,Cardiology,Timely Filing,1153.33,Denied,22,0,0
+C000356,2025-04-25,BCBS,TX,Oncology,Coding,1386.67,Reworked,15,1,0
+C000357,2025-05-27,United,NJ,Orthopedics,Coding,1296.66,Paid After Rework,25,1,1
+C000358,2025-05-29,Cigna,NJ,Cardiology,Medical Necessity,1326.48,Paid After Rework,30,1,1
+C000359,2025-02-14,Cigna,AZ,Oncology,Non-covered Service,740.7,Denied,38,0,0
+C000360,2025-06-13,United,AZ,Oncology,Medical Necessity,982.64,Paid After Rework,32,1,1
+C000361,2025-01-10,Cigna,FL,Orthopedics,Timely Filing,1555.71,Paid After Rework,35,1,1
+C000362,2025-03-15,Aetna,FL,Oncology,Eligibility,2490.63,Denied,43,0,0
+C000363,2025-06-13,BCBS,NY,Cardiology,Authorization,945.22,Paid After Rework,44,1,1
+C000364,2025-01-10,Aetna,FL,Primary Care,Eligibility,820.89,Reworked,34,1,0
+C000365,2025-04-28,Aetna,TX,Oncology,Timely Filing,1939.98,Denied,40,0,0
+C000366,2025-04-03,Cigna,CA,Neurology,Timely Filing,311.42,Paid After Rework,49,1,1
+C000367,2025-01-26,Cigna,NY,Cardiology,Authorization,1144.13,Denied,26,0,0
+C000368,2025-04-12,Humana,NY,Radiology,Medical Necessity,370.16,Pending Review,41,0,0
+C000369,2025-01-03,Aetna,NY,Radiology,Non-covered Service,2002.12,Denied,20,0,0
+C000370,2025-03-22,Humana,NY,Neurology,Coding,526.5,Reworked,13,1,0
+C000371,2025-06-07,Cigna,CA,Primary Care,Duplicate,731.38,Paid After Rework,21,1,1
+C000372,2025-04-21,Humana,AZ,Radiology,Medical Necessity,811.0,Denied,25,0,0
+C000373,2025-03-07,Humana,FL,Neurology,Duplicate,2220.92,Denied,15,0,0
+C000374,2025-06-03,Aetna,TX,Cardiology,Eligibility,2437.56,Denied,2,0,0
+C000375,2025-06-24,BCBS,FL,Primary Care,Eligibility,2493.05,Reworked,46,1,0
+C000376,2025-04-28,Aetna,FL,Radiology,Authorization,386.88,Pending Review,4,0,0
+C000377,2025-06-17,Humana,CA,Oncology,Duplicate,910.43,Pending Review,48,0,0
+C000378,2025-02-07,Cigna,NJ,Neurology,Authorization,2317.32,Reworked,11,1,0
+C000379,2025-02-08,Humana,NJ,Neurology,Timely Filing,1899.19,Reworked,46,1,0
+C000380,2025-01-09,United,TX,Oncology,Eligibility,1721.03,Denied,33,0,0
+C000381,2025-02-27,BCBS,NJ,Cardiology,Authorization,1124.41,Paid After Rework,13,1,1
+C000382,2025-03-06,BCBS,CA,Radiology,Timely Filing,1553.98,Reworked,26,1,0
+C000383,2025-02-22,Humana,NY,Oncology,Non-covered Service,2035.92,Pending Review,45,0,0
+C000384,2025-05-30,BCBS,FL,Orthopedics,Timely Filing,2477.92,Reworked,38,1,0
+C000385,2025-01-01,Humana,NJ,Radiology,Authorization,1649.79,Denied,23,0,0
+C000386,2025-02-25,BCBS,TX,Oncology,Duplicate,2022.18,Reworked,40,1,0
+C000387,2025-05-16,BCBS,AZ,Cardiology,Authorization,1389.13,Pending Review,31,0,0
+C000388,2025-06-28,Aetna,NY,Neurology,Timely Filing,296.61,Pending Review,28,0,0
+C000389,2025-03-06,BCBS,AZ,Primary Care,Non-covered Service,765.74,Denied,10,0,0
+C000390,2025-03-24,Cigna,FL,Orthopedics,Coding,948.08,Pending Review,41,0,0
+C000391,2025-01-02,BCBS,NY,Oncology,Authorization,1583.4,Reworked,13,1,0
+C000392,2025-06-21,Cigna,NY,Cardiology,Non-covered Service,2446.37,Denied,25,0,0
+C000393,2025-04-26,Humana,AZ,Cardiology,Medical Necessity,2441.64,Paid After Rework,16,1,1
+C000394,2025-01-04,Humana,FL,Neurology,Timely Filing,2428.02,Denied,45,0,0
+C000395,2025-01-02,Aetna,NY,Oncology,Duplicate,1344.25,Reworked,24,1,0
+C000396,2025-02-14,BCBS,CA,Oncology,Medical Necessity,315.59,Reworked,9,1,0
+C000397,2025-04-05,BCBS,CA,Neurology,Medical Necessity,389.02,Denied,32,0,0
+C000398,2025-01-21,Cigna,CA,Cardiology,Non-covered Service,680.48,Pending Review,37,0,0
+C000399,2025-01-06,Cigna,NY,Orthopedics,Medical Necessity,1488.38,Denied,34,0,0
+C000400,2025-05-29,Humana,FL,Cardiology,Medical Necessity,2438.61,Reworked,16,1,0
+C000401,2025-06-13,Humana,CA,Orthopedics,Non-covered Service,2174.74,Denied,27,0,0
+C000402,2025-01-28,United,TX,Cardiology,Timely Filing,732.51,Pending Review,3,0,0
+C000403,2025-03-18,United,NY,Primary Care,Medical Necessity,1785.95,Paid After Rework,31,1,1
+C000404,2025-04-09,Humana,FL,Orthopedics,Duplicate,174.9,Paid After Rework,34,1,1
+C000405,2025-03-20,Cigna,CA,Orthopedics,Non-covered Service,1862.82,Reworked,2,1,0
+C000406,2025-06-24,Aetna,NJ,Orthopedics,Eligibility,1475.72,Denied,39,0,0
+C000407,2025-03-17,United,NJ,Primary Care,Eligibility,2398.75,Paid After Rework,39,1,1
+C000408,2025-06-01,Humana,NY,Orthopedics,Duplicate,2277.3,Denied,28,0,0
+C000409,2025-06-17,Humana,AZ,Radiology,Authorization,424.57,Reworked,6,1,0
+C000410,2025-05-19,BCBS,AZ,Cardiology,Eligibility,541.14,Reworked,39,1,0
+C000411,2025-03-01,United,TX,Orthopedics,Authorization,1891.86,Paid After Rework,5,1,1
+C000412,2025-04-12,Humana,CA,Cardiology,Duplicate,702.98,Pending Review,5,0,0
+C000413,2025-01-19,Humana,TX,Cardiology,Medical Necessity,1814.79,Pending Review,33,0,0
+C000414,2025-04-17,Cigna,TX,Cardiology,Medical Necessity,1916.71,Reworked,26,1,0
+C000415,2025-02-18,Aetna,TX,Orthopedics,Coding,1025.17,Paid After Rework,15,1,1
+C000416,2025-02-01,United,CA,Neurology,Timely Filing,2335.6,Pending Review,26,0,0
+C000417,2025-05-25,BCBS,NJ,Radiology,Timely Filing,278.61,Pending Review,14,0,0
+C000418,2025-06-22,BCBS,TX,Primary Care,Timely Filing,523.57,Denied,20,0,0
+C000419,2025-05-16,BCBS,TX,Orthopedics,Timely Filing,745.72,Reworked,30,1,0
+C000420,2025-05-28,United,TX,Cardiology,Duplicate,1187.91,Denied,12,0,0
+C000421,2025-03-24,Cigna,CA,Neurology,Coding,1433.59,Paid After Rework,9,1,1
+C000422,2025-02-04,Aetna,NY,Primary Care,Eligibility,1132.35,Denied,6,0,0
+C000423,2025-01-13,Cigna,NY,Neurology,Authorization,224.49,Denied,45,0,0
+C000424,2025-01-11,BCBS,TX,Primary Care,Timely Filing,125.21,Denied,11,0,0
+C000425,2025-03-17,BCBS,NY,Radiology,Timely Filing,1456.0,Pending Review,37,0,0
+C000426,2025-04-03,Humana,FL,Radiology,Eligibility,464.62,Pending Review,34,0,0
+C000427,2025-03-11,United,AZ,Orthopedics,Eligibility,437.92,Paid After Rework,12,1,1
+C000428,2025-03-23,Humana,FL,Radiology,Duplicate,967.77,Pending Review,13,0,0
+C000429,2025-05-08,Humana,FL,Neurology,Authorization,278.14,Denied,18,0,0
+C000430,2025-04-23,BCBS,CA,Primary Care,Coding,1542.82,Denied,49,0,0
+C000431,2025-01-31,BCBS,NY,Primary Care,Duplicate,2435.04,Denied,46,0,0
+C000432,2025-01-09,Aetna,FL,Radiology,Duplicate,1035.08,Pending Review,49,0,0
+C000433,2025-01-27,BCBS,AZ,Neurology,Non-covered Service,1547.92,Paid After Rework,21,1,1
+C000434,2025-05-17,Humana,NJ,Neurology,Duplicate,159.28,Denied,12,0,0
+C000435,2025-04-01,Cigna,FL,Cardiology,Duplicate,1873.99,Denied,31,0,0
+C000436,2025-05-31,BCBS,NY,Oncology,Eligibility,763.68,Pending Review,33,0,0
+C000437,2025-05-12,Humana,TX,Oncology,Duplicate,436.9,Paid After Rework,22,1,1
+C000438,2025-04-05,Humana,TX,Primary Care,Authorization,2026.53,Paid After Rework,21,1,1
+C000439,2025-06-27,United,TX,Oncology,Eligibility,594.78,Denied,28,0,0
+C000440,2025-06-12,Humana,TX,Neurology,Duplicate,294.79,Denied,11,0,0
+C000441,2025-02-22,BCBS,NY,Radiology,Eligibility,794.93,Pending Review,29,0,0
+C000442,2025-01-10,United,NJ,Radiology,Coding,2113.18,Denied,12,0,0
+C000443,2025-03-31,BCBS,NY,Orthopedics,Coding,2483.21,Reworked,27,1,0
+C000444,2025-03-31,United,AZ,Orthopedics,Timely Filing,609.45,Pending Review,13,0,0
+C000445,2025-03-17,United,CA,Orthopedics,Duplicate,468.27,Reworked,36,1,0
+C000446,2025-02-01,Cigna,FL,Orthopedics,Coding,1071.87,Denied,21,0,0
+C000447,2025-04-01,Aetna,FL,Radiology,Duplicate,265.14,Denied,29,0,0
+C000448,2025-06-02,Humana,TX,Oncology,Non-covered Service,231.07,Reworked,37,1,0
+C000449,2025-01-16,United,NY,Radiology,Coding,555.73,Reworked,31,1,0
+C000450,2025-05-07,Aetna,TX,Cardiology,Coding,1233.61,Pending Review,41,0,0
+C000451,2025-06-17,Cigna,CA,Orthopedics,Authorization,1804.72,Denied,19,0,0
+C000452,2025-06-03,Cigna,TX,Neurology,Medical Necessity,1148.11,Denied,6,0,0
+C000453,2025-01-25,Humana,TX,Neurology,Duplicate,1024.23,Denied,33,0,0
+C000454,2025-04-14,Cigna,FL,Cardiology,Non-covered Service,1294.34,Denied,25,0,0
+C000455,2025-03-12,United,AZ,Orthopedics,Non-covered Service,1158.24,Pending Review,33,0,0
+C000456,2025-02-12,Humana,FL,Orthopedics,Authorization,2283.47,Pending Review,5,0,0
+C000457,2025-04-08,United,TX,Oncology,Medical Necessity,1002.6,Denied,3,0,0
+C000458,2025-06-02,United,FL,Primary Care,Duplicate,1190.39,Pending Review,43,0,0
+C000459,2025-02-17,Cigna,AZ,Oncology,Authorization,2031.48,Denied,16,0,0
+C000460,2025-05-14,Humana,NJ,Neurology,Non-covered Service,241.59,Paid After Rework,36,1,1
+C000461,2025-01-14,Humana,TX,Primary Care,Medical Necessity,737.02,Denied,17,0,0
+C000462,2025-01-25,Humana,NJ,Primary Care,Eligibility,2060.65,Denied,18,0,0
+C000463,2025-04-23,Humana,FL,Radiology,Authorization,613.75,Denied,34,0,0
+C000464,2025-03-23,BCBS,NY,Orthopedics,Medical Necessity,2069.44,Pending Review,38,0,0
+C000465,2025-05-11,Humana,FL,Radiology,Eligibility,2127.86,Denied,15,0,0
+C000466,2025-04-13,Humana,NY,Cardiology,Eligibility,2365.6,Denied,14,0,0
+C000467,2025-01-14,Humana,FL,Radiology,Coding,2424.9,Denied,15,0,0
+C000468,2025-06-27,Humana,CA,Neurology,Medical Necessity,1969.06,Paid After Rework,24,1,1
+C000469,2025-06-05,Humana,NJ,Radiology,Duplicate,1580.76,Reworked,25,1,0
+C000470,2025-05-06,United,AZ,Orthopedics,Timely Filing,691.06,Paid After Rework,41,1,1
+C000471,2025-05-13,BCBS,NJ,Oncology,Non-covered Service,490.29,Pending Review,14,0,0
+C000472,2025-04-13,BCBS,NJ,Oncology,Eligibility,623.12,Denied,4,0,0
+C000473,2025-06-07,BCBS,AZ,Neurology,Authorization,1705.81,Paid After Rework,47,1,1
+C000474,2025-04-18,BCBS,NJ,Radiology,Medical Necessity,1194.15,Reworked,39,1,0
+C000475,2025-06-08,BCBS,NY,Oncology,Timely Filing,1809.56,Denied,2,0,0
+C000476,2025-05-16,Aetna,CA,Cardiology,Eligibility,340.53,Denied,4,0,0
+C000477,2025-05-05,Aetna,AZ,Primary Care,Non-covered Service,1704.46,Paid After Rework,42,1,1
+C000478,2025-04-02,Aetna,TX,Oncology,Coding,1673.92,Paid After Rework,43,1,1
+C000479,2025-03-24,United,NJ,Cardiology,Duplicate,838.32,Denied,12,0,0
+C000480,2025-06-23,Cigna,CA,Neurology,Timely Filing,2386.36,Reworked,40,1,0
+C000481,2025-04-18,Cigna,AZ,Oncology,Medical Necessity,619.36,Denied,25,0,0
+C000482,2025-02-08,BCBS,AZ,Oncology,Authorization,265.52,Pending Review,28,0,0
+C000483,2025-01-19,United,NY,Neurology,Duplicate,1536.85,Paid After Rework,11,1,1
+C000484,2025-03-28,Cigna,AZ,Neurology,Eligibility,1722.41,Reworked,20,1,0
+C000485,2025-06-11,United,NJ,Cardiology,Coding,1395.67,Reworked,18,1,0
+C000486,2025-03-28,BCBS,NJ,Primary Care,Medical Necessity,1590.56,Paid After Rework,37,1,1
+C000487,2025-04-23,United,AZ,Primary Care,Medical Necessity,2466.26,Paid After Rework,16,1,1
+C000488,2025-05-09,Humana,FL,Oncology,Eligibility,1491.93,Reworked,39,1,0
+C000489,2025-03-10,United,NY,Cardiology,Duplicate,1102.27,Denied,7,0,0
+C000490,2025-04-30,Humana,TX,Neurology,Duplicate,522.04,Denied,14,0,0
+C000491,2025-02-14,BCBS,NJ,Primary Care,Non-covered Service,2431.8,Denied,9,0,0
+C000492,2025-01-02,BCBS,AZ,Neurology,Timely Filing,1089.41,Paid After Rework,34,1,1
+C000493,2025-01-27,BCBS,TX,Orthopedics,Coding,1475.27,Denied,6,0,0
+C000494,2025-05-15,Cigna,NY,Cardiology,Eligibility,224.86,Reworked,12,1,0
+C000495,2025-05-03,Humana,NJ,Neurology,Timely Filing,1655.96,Denied,24,0,0
+C000496,2025-03-11,United,TX,Neurology,Non-covered Service,870.51,Paid After Rework,37,1,1
+C000497,2025-01-31,Cigna,FL,Orthopedics,Eligibility,980.04,Reworked,21,1,0
+C000498,2025-04-29,Humana,CA,Cardiology,Eligibility,948.42,Pending Review,49,0,0
+C000499,2025-05-08,Aetna,AZ,Primary Care,Medical Necessity,2297.72,Paid After Rework,24,1,1
+C000500,2025-04-06,Humana,CA,Primary Care,Authorization,2488.19,Paid After Rework,34,1,1
+C000501,2025-04-21,BCBS,TX,Primary Care,Duplicate,929.87,Reworked,40,1,0
+C000502,2025-04-03,BCBS,NJ,Neurology,Medical Necessity,341.24,Reworked,49,1,0
+C000503,2025-06-21,Cigna,AZ,Radiology,Duplicate,2373.11,Pending Review,29,0,0
+C000504,2025-04-03,Cigna,CA,Oncology,Coding,915.83,Paid After Rework,11,1,1
+C000505,2025-02-08,United,NJ,Orthopedics,Medical Necessity,2064.67,Pending Review,10,0,0
+C000506,2025-04-06,Cigna,NY,Radiology,Non-covered Service,1363.84,Pending Review,6,0,0
+C000507,2025-05-24,BCBS,NY,Cardiology,Non-covered Service,1591.93,Denied,22,0,0
+C000508,2025-03-22,Humana,TX,Oncology,Medical Necessity,1190.13,Reworked,18,1,0
+C000509,2025-05-13,Cigna,NJ,Oncology,Authorization,1160.43,Paid After Rework,4,1,1
+C000510,2025-05-02,Cigna,NY,Primary Care,Timely Filing,1773.42,Reworked,21,1,0
+C000511,2025-04-11,BCBS,CA,Cardiology,Medical Necessity,1959.16,Denied,3,0,0
+C000512,2025-02-01,Cigna,AZ,Radiology,Medical Necessity,1105.03,Reworked,24,1,0
+C000513,2025-05-19,Aetna,AZ,Primary Care,Medical Necessity,1502.94,Denied,25,0,0
+C000514,2025-05-04,United,FL,Orthopedics,Authorization,1529.8,Paid After Rework,18,1,1
+C000515,2025-04-09,United,NY,Orthopedics,Non-covered Service,2013.92,Reworked,32,1,0
+C000516,2025-02-12,United,FL,Cardiology,Duplicate,621.93,Pending Review,41,0,0
+C000517,2025-03-21,Cigna,FL,Cardiology,Eligibility,152.32,Denied,4,0,0
+C000518,2025-01-17,Humana,TX,Orthopedics,Eligibility,2299.2,Paid After Rework,43,1,1
+C000519,2025-03-29,Cigna,AZ,Oncology,Coding,2384.13,Paid After Rework,25,1,1
+C000520,2025-06-11,Aetna,TX,Orthopedics,Medical Necessity,174.22,Paid After Rework,42,1,1
+C000521,2025-05-31,Humana,NJ,Cardiology,Coding,1381.86,Denied,24,0,0
+C000522,2025-01-14,BCBS,AZ,Primary Care,Timely Filing,1243.02,Paid After Rework,14,1,1
+C000523,2025-06-13,Humana,NY,Neurology,Coding,282.83,Pending Review,36,0,0
+C000524,2025-04-10,Humana,FL,Oncology,Non-covered Service,1965.2,Denied,39,0,0
+C000525,2025-03-10,Humana,AZ,Cardiology,Timely Filing,1293.62,Paid After Rework,15,1,1
+C000526,2025-03-03,United,AZ,Primary Care,Timely Filing,2073.22,Reworked,48,1,0
+C000527,2025-05-20,Humana,AZ,Orthopedics,Eligibility,219.26,Reworked,22,1,0
+C000528,2025-05-05,BCBS,AZ,Oncology,Non-covered Service,2472.03,Reworked,24,1,0
+C000529,2025-02-21,Cigna,CA,Orthopedics,Timely Filing,2199.95,Reworked,12,1,0
+C000530,2025-03-06,United,FL,Oncology,Non-covered Service,1780.4,Pending Review,21,0,0
+C000531,2025-01-28,Humana,NJ,Cardiology,Non-covered Service,793.74,Reworked,44,1,0
+C000532,2025-02-19,Cigna,CA,Orthopedics,Authorization,2272.87,Denied,41,0,0
+C000533,2025-06-29,Aetna,AZ,Oncology,Authorization,1388.02,Denied,21,0,0
+C000534,2025-03-07,Aetna,NJ,Oncology,Non-covered Service,1922.98,Denied,27,0,0
+C000535,2025-06-16,Humana,FL,Neurology,Coding,1177.97,Paid After Rework,4,1,1
+C000536,2025-06-03,Humana,NY,Primary Care,Coding,1281.93,Denied,35,0,0
+C000537,2025-02-01,United,NJ,Neurology,Medical Necessity,724.61,Denied,24,0,0
+C000538,2025-01-26,Aetna,FL,Orthopedics,Duplicate,1999.97,Denied,8,0,0
+C000539,2025-01-29,United,NJ,Radiology,Non-covered Service,1967.92,Reworked,23,1,0
+C000540,2025-05-09,Humana,NY,Cardiology,Non-covered Service,233.17,Reworked,12,1,0
+C000541,2025-02-01,United,NY,Neurology,Eligibility,2384.99,Pending Review,21,0,0
+C000542,2025-05-12,Cigna,TX,Radiology,Medical Necessity,1825.94,Denied,45,0,0
+C000543,2025-02-23,BCBS,TX,Primary Care,Timely Filing,2389.99,Paid After Rework,16,1,1
+C000544,2025-02-07,Humana,NY,Oncology,Eligibility,342.44,Paid After Rework,5,1,1
+C000545,2025-02-27,Aetna,FL,Cardiology,Duplicate,2160.59,Pending Review,2,0,0
+C000546,2025-05-30,Aetna,NJ,Neurology,Non-covered Service,1067.96,Paid After Rework,27,1,1
+C000547,2025-03-05,BCBS,NY,Orthopedics,Medical Necessity,1507.8,Denied,14,0,0
+C000548,2025-03-24,United,FL,Primary Care,Coding,1827.93,Denied,37,0,0
+C000549,2025-01-06,Cigna,FL,Neurology,Non-covered Service,1059.42,Paid After Rework,21,1,1
+C000550,2025-01-09,United,NY,Radiology,Medical Necessity,2100.38,Pending Review,12,0,0
+C000551,2025-02-22,Cigna,NJ,Oncology,Eligibility,1337.8,Denied,17,0,0
+C000552,2025-03-31,BCBS,AZ,Oncology,Non-covered Service,2480.81,Paid After Rework,8,1,1
+C000553,2025-06-23,BCBS,NJ,Oncology,Medical Necessity,716.19,Paid After Rework,48,1,1
+C000554,2025-05-19,Aetna,TX,Orthopedics,Non-covered Service,514.83,Paid After Rework,39,1,1
+C000555,2025-02-28,Aetna,TX,Neurology,Duplicate,2477.51,Reworked,11,1,0
+C000556,2025-06-07,Humana,NJ,Oncology,Medical Necessity,2147.46,Denied,24,0,0
+C000557,2025-05-21,Cigna,NJ,Primary Care,Timely Filing,2027.49,Denied,39,0,0
+C000558,2025-05-30,Cigna,CA,Orthopedics,Eligibility,1701.49,Reworked,27,1,0
+C000559,2025-03-28,BCBS,AZ,Oncology,Non-covered Service,1944.29,Paid After Rework,11,1,1
+C000560,2025-05-21,BCBS,CA,Cardiology,Timely Filing,2043.13,Pending Review,14,0,0
+C000561,2025-04-16,Humana,AZ,Radiology,Timely Filing,447.92,Denied,45,0,0
+C000562,2025-03-07,United,AZ,Oncology,Eligibility,1582.63,Denied,43,0,0
+C000563,2025-05-13,Cigna,TX,Oncology,Timely Filing,2198.94,Paid After Rework,46,1,1
+C000564,2025-04-29,BCBS,NY,Cardiology,Timely Filing,2058.33,Paid After Rework,28,1,1
+C000565,2025-01-07,Aetna,NY,Orthopedics,Coding,202.13,Pending Review,20,0,0
+C000566,2025-01-13,United,FL,Orthopedics,Medical Necessity,1853.76,Reworked,14,1,0
+C000567,2025-06-12,Aetna,FL,Radiology,Eligibility,373.4,Reworked,18,1,0
+C000568,2025-06-11,Humana,NJ,Primary Care,Duplicate,999.75,Denied,27,0,0
+C000569,2025-02-11,United,AZ,Radiology,Non-covered Service,915.18,Pending Review,21,0,0
+C000570,2025-06-05,Aetna,AZ,Orthopedics,Non-covered Service,1610.96,Reworked,34,1,0
+C000571,2025-05-05,Cigna,CA,Primary Care,Duplicate,762.25,Reworked,24,1,0
+C000572,2025-02-27,Humana,FL,Radiology,Non-covered Service,1271.86,Reworked,19,1,0
+C000573,2025-03-23,BCBS,TX,Orthopedics,Authorization,448.73,Denied,31,0,0
+C000574,2025-01-17,Cigna,CA,Oncology,Duplicate,1001.88,Pending Review,42,0,0
+C000575,2025-02-03,Humana,NY,Neurology,Eligibility,1814.91,Reworked,44,1,0
+C000576,2025-02-14,Humana,CA,Radiology,Medical Necessity,666.35,Denied,7,0,0
+C000577,2025-04-09,BCBS,TX,Primary Care,Coding,1883.13,Reworked,43,1,0
+C000578,2025-01-07,Humana,FL,Primary Care,Medical Necessity,462.31,Paid After Rework,48,1,1
+C000579,2025-03-03,Humana,AZ,Cardiology,Medical Necessity,570.35,Reworked,36,1,0
+C000580,2025-06-25,United,NJ,Orthopedics,Medical Necessity,516.09,Paid After Rework,45,1,1
+C000581,2025-04-15,BCBS,CA,Primary Care,Duplicate,890.4,Reworked,45,1,0
+C000582,2025-06-03,Aetna,CA,Cardiology,Eligibility,1981.58,Pending Review,36,0,0
+C000583,2025-05-13,Cigna,NJ,Neurology,Medical Necessity,446.9,Denied,2,0,0
+C000584,2025-01-29,Cigna,FL,Oncology,Authorization,542.93,Reworked,33,1,0
+C000585,2025-03-30,United,FL,Primary Care,Non-covered Service,1691.61,Reworked,8,1,0
+C000586,2025-05-09,Cigna,CA,Oncology,Medical Necessity,429.65,Denied,10,0,0
+C000587,2025-04-26,United,TX,Cardiology,Eligibility,1066.45,Denied,30,0,0
+C000588,2025-05-13,BCBS,TX,Primary Care,Timely Filing,182.81,Pending Review,48,0,0
+C000589,2025-05-27,United,CA,Primary Care,Medical Necessity,1588.78,Paid After Rework,36,1,1
+C000590,2025-06-28,Aetna,AZ,Primary Care,Timely Filing,2212.14,Denied,48,0,0
+C000591,2025-04-23,United,FL,Neurology,Authorization,319.1,Pending Review,9,0,0
+C000592,2025-03-24,BCBS,NY,Orthopedics,Timely Filing,2408.58,Pending Review,29,0,0
+C000593,2025-01-08,Humana,NY,Radiology,Duplicate,1368.01,Denied,47,0,0
+C000594,2025-01-01,BCBS,NY,Cardiology,Duplicate,1310.6,Pending Review,27,0,0
+C000595,2025-04-08,Cigna,FL,Radiology,Coding,1830.6,Reworked,40,1,0
+C000596,2025-01-30,Aetna,TX,Neurology,Authorization,1099.65,Reworked,46,1,0
+C000597,2025-02-03,Humana,NY,Primary Care,Coding,1904.86,Pending Review,48,0,0
+C000598,2025-03-21,United,CA,Radiology,Medical Necessity,1648.15,Denied,10,0,0
+C000599,2025-03-12,United,NY,Cardiology,Medical Necessity,708.34,Pending Review,25,0,0
+C000600,2025-04-06,Humana,NJ,Oncology,Eligibility,1550.65,Pending Review,32,0,0
+C000601,2025-01-13,Cigna,CA,Oncology,Timely Filing,839.1,Reworked,34,1,0
+C000602,2025-03-30,Aetna,NJ,Neurology,Duplicate,135.77,Reworked,43,1,0
+C000603,2025-05-26,Cigna,CA,Orthopedics,Timely Filing,1595.5,Paid After Rework,21,1,1
+C000604,2025-05-08,Cigna,NY,Primary Care,Coding,987.03,Denied,28,0,0
+C000605,2025-01-22,United,NJ,Oncology,Medical Necessity,1089.05,Denied,7,0,0
+C000606,2025-02-01,BCBS,CA,Orthopedics,Coding,1382.8,Denied,45,0,0
+C000607,2025-03-04,Humana,CA,Cardiology,Authorization,387.7,Denied,27,0,0
+C000608,2025-01-01,Humana,NY,Orthopedics,Non-covered Service,302.46,Denied,13,0,0
+C000609,2025-02-20,Cigna,NY,Orthopedics,Authorization,479.07,Pending Review,46,0,0
+C000610,2025-06-24,Cigna,CA,Cardiology,Timely Filing,395.46,Reworked,27,1,0
+C000611,2025-06-08,BCBS,FL,Primary Care,Eligibility,616.41,Pending Review,47,0,0
+C000612,2025-05-16,Cigna,NY,Neurology,Non-covered Service,1732.81,Paid After Rework,46,1,1
+C000613,2025-03-04,Humana,NY,Radiology,Medical Necessity,1987.85,Reworked,43,1,0
+C000614,2025-03-04,BCBS,FL,Neurology,Non-covered Service,199.5,Reworked,29,1,0
+C000615,2025-04-02,BCBS,AZ,Oncology,Authorization,1283.38,Reworked,45,1,0
+C000616,2025-05-21,BCBS,AZ,Orthopedics,Medical Necessity,1228.67,Denied,30,0,0
+C000617,2025-05-12,Humana,NJ,Radiology,Duplicate,1491.34,Pending Review,20,0,0
+C000618,2025-01-18,Humana,NJ,Cardiology,Medical Necessity,1329.21,Paid After Rework,41,1,1
+C000619,2025-03-18,Humana,TX,Orthopedics,Eligibility,365.08,Denied,5,0,0
+C000620,2025-01-31,United,NJ,Cardiology,Eligibility,433.85,Denied,33,0,0
+C000621,2025-04-13,Aetna,NY,Orthopedics,Eligibility,564.91,Pending Review,31,0,0
+C000622,2025-02-16,BCBS,CA,Oncology,Duplicate,2311.92,Pending Review,47,0,0
+C000623,2025-02-18,Cigna,TX,Neurology,Eligibility,715.53,Denied,40,0,0
+C000624,2025-02-05,Cigna,NJ,Primary Care,Medical Necessity,1622.22,Denied,32,0,0
+C000625,2025-04-02,Humana,NY,Radiology,Eligibility,692.69,Reworked,2,1,0
+C000626,2025-02-04,Aetna,NY,Orthopedics,Timely Filing,492.99,Denied,17,0,0
+C000627,2025-05-28,Humana,NY,Neurology,Duplicate,2093.61,Denied,38,0,0
+C000628,2025-01-07,BCBS,NY,Orthopedics,Non-covered Service,1906.26,Pending Review,15,0,0
+C000629,2025-01-04,Aetna,NJ,Cardiology,Authorization,1559.19,Pending Review,35,0,0
+C000630,2025-04-05,Humana,AZ,Primary Care,Medical Necessity,1810.73,Denied,23,0,0
+C000631,2025-02-05,United,NY,Neurology,Medical Necessity,626.43,Pending Review,40,0,0
+C000632,2025-02-10,Humana,NJ,Orthopedics,Medical Necessity,741.9,Reworked,28,1,0
+C000633,2025-01-12,BCBS,NY,Primary Care,Coding,885.12,Paid After Rework,30,1,1
+C000634,2025-01-21,Humana,CA,Neurology,Medical Necessity,1917.72,Denied,25,0,0
+C000635,2025-03-03,United,AZ,Neurology,Non-covered Service,1293.89,Paid After Rework,41,1,1
+C000636,2025-01-04,BCBS,AZ,Neurology,Medical Necessity,648.04,Pending Review,43,0,0
+C000637,2025-01-03,United,AZ,Cardiology,Timely Filing,2334.74,Pending Review,3,0,0
+C000638,2025-06-22,Aetna,CA,Primary Care,Timely Filing,1838.87,Denied,19,0,0
+C000639,2025-02-18,Aetna,TX,Radiology,Duplicate,701.5,Denied,10,0,0
+C000640,2025-05-08,BCBS,FL,Orthopedics,Medical Necessity,1515.66,Denied,40,0,0
+C000641,2025-01-01,Aetna,NY,Cardiology,Coding,715.46,Paid After Rework,43,1,1
+C000642,2025-01-27,Cigna,AZ,Neurology,Timely Filing,1962.43,Pending Review,39,0,0
+C000643,2025-05-09,United,FL,Oncology,Timely Filing,271.77,Reworked,37,1,0
+C000644,2025-05-07,BCBS,NY,Neurology,Authorization,2119.64,Pending Review,4,0,0
+C000645,2025-05-20,Cigna,NY,Cardiology,Eligibility,652.51,Paid After Rework,47,1,1
+C000646,2025-04-12,United,NJ,Cardiology,Coding,1183.23,Denied,2,0,0
+C000647,2025-01-27,Aetna,AZ,Orthopedics,Coding,1192.43,Pending Review,26,0,0
+C000648,2025-06-21,Cigna,TX,Neurology,Coding,2226.85,Pending Review,38,0,0
+C000649,2025-05-08,BCBS,CA,Primary Care,Eligibility,1384.7,Pending Review,19,0,0
+C000650,2025-05-02,BCBS,FL,Cardiology,Duplicate,977.63,Reworked,31,1,0
+C000651,2025-01-09,Humana,NJ,Primary Care,Authorization,537.48,Reworked,48,1,0
+C000652,2025-02-10,Cigna,AZ,Neurology,Non-covered Service,977.67,Denied,25,0,0
+C000653,2025-05-04,United,TX,Oncology,Non-covered Service,467.17,Denied,46,0,0
+C000654,2025-03-17,Humana,CA,Cardiology,Duplicate,1464.62,Pending Review,13,0,0
+C000655,2025-06-18,BCBS,CA,Orthopedics,Medical Necessity,653.31,Denied,37,0,0
+C000656,2025-06-05,BCBS,AZ,Radiology,Timely Filing,690.21,Denied,12,0,0
+C000657,2025-06-30,Cigna,NJ,Cardiology,Eligibility,2242.27,Pending Review,42,0,0
+C000658,2025-04-09,Cigna,NJ,Primary Care,Duplicate,1741.49,Reworked,16,1,0
+C000659,2025-05-03,United,TX,Primary Care,Eligibility,2390.16,Pending Review,5,0,0
+C000660,2025-02-06,Cigna,AZ,Cardiology,Medical Necessity,121.38,Denied,24,0,0
+C000661,2025-05-05,United,NJ,Cardiology,Eligibility,1471.47,Denied,11,0,0
+C000662,2025-04-17,Aetna,NY,Oncology,Timely Filing,2308.89,Paid After Rework,36,1,1
+C000663,2025-05-03,BCBS,TX,Orthopedics,Coding,1620.73,Denied,11,0,0
+C000664,2025-02-15,United,NJ,Primary Care,Timely Filing,372.15,Denied,4,0,0
+C000665,2025-01-27,Cigna,TX,Orthopedics,Eligibility,1982.54,Reworked,5,1,0
+C000666,2025-01-16,United,CA,Radiology,Eligibility,2034.09,Paid After Rework,2,1,1
+C000667,2025-03-21,Aetna,CA,Primary Care,Duplicate,688.51,Paid After Rework,4,1,1
+C000668,2025-05-05,Humana,TX,Orthopedics,Timely Filing,889.65,Reworked,8,1,0
+C000669,2025-06-18,Humana,FL,Neurology,Eligibility,1280.09,Pending Review,24,0,0
+C000670,2025-01-06,Cigna,NY,Cardiology,Authorization,1475.89,Reworked,18,1,0
+C000671,2025-01-21,Cigna,NJ,Radiology,Non-covered Service,1115.72,Denied,39,0,0
+C000672,2025-02-11,Humana,CA,Neurology,Coding,1241.9,Paid After Rework,15,1,1
+C000673,2025-02-09,United,NY,Radiology,Duplicate,1568.31,Pending Review,6,0,0
+C000674,2025-05-15,Humana,AZ,Radiology,Non-covered Service,1633.8,Pending Review,25,0,0
+C000675,2025-05-27,BCBS,AZ,Primary Care,Timely Filing,1569.98,Pending Review,39,0,0
+C000676,2025-03-24,Cigna,NY,Primary Care,Coding,1365.8,Paid After Rework,40,1,1
+C000677,2025-01-01,United,FL,Oncology,Eligibility,331.51,Denied,32,0,0
+C000678,2025-06-21,Cigna,AZ,Neurology,Duplicate,335.95,Paid After Rework,39,1,1
+C000679,2025-01-01,BCBS,NY,Neurology,Timely Filing,1375.15,Denied,3,0,0
+C000680,2025-05-19,United,AZ,Primary Care,Non-covered Service,1442.72,Paid After Rework,33,1,1
+C000681,2025-03-19,United,FL,Oncology,Medical Necessity,2142.24,Pending Review,37,0,0
+C000682,2025-05-18,Humana,NJ,Orthopedics,Duplicate,2044.21,Denied,45,0,0
+C000683,2025-02-12,Aetna,NJ,Radiology,Timely Filing,2067.2,Reworked,48,1,0
+C000684,2025-04-18,BCBS,CA,Radiology,Non-covered Service,1887.37,Pending Review,26,0,0
+C000685,2025-05-12,United,NY,Neurology,Non-covered Service,162.83,Paid After Rework,46,1,1
+C000686,2025-06-16,Aetna,FL,Primary Care,Authorization,2059.4,Reworked,2,1,0
+C000687,2025-01-30,Aetna,NY,Radiology,Duplicate,251.27,Paid After Rework,39,1,1
+C000688,2025-01-10,BCBS,NY,Cardiology,Authorization,262.78,Paid After Rework,5,1,1
+C000689,2025-03-08,BCBS,AZ,Radiology,Coding,139.48,Paid After Rework,16,1,1
+C000690,2025-01-01,Cigna,AZ,Cardiology,Duplicate,1985.55,Reworked,20,1,0
+C000691,2025-01-22,Aetna,NY,Neurology,Coding,2439.19,Denied,17,0,0
+C000692,2025-03-16,United,TX,Oncology,Eligibility,287.46,Paid After Rework,44,1,1
+C000693,2025-03-31,United,FL,Orthopedics,Duplicate,465.89,Paid After Rework,11,1,1
+C000694,2025-06-06,Aetna,TX,Radiology,Non-covered Service,1242.46,Denied,18,0,0
+C000695,2025-01-08,United,CA,Cardiology,Eligibility,2360.69,Pending Review,29,0,0
+C000696,2025-03-19,Humana,AZ,Primary Care,Eligibility,1651.64,Denied,39,0,0
+C000697,2025-05-01,Humana,AZ,Radiology,Non-covered Service,1712.39,Pending Review,15,0,0
+C000698,2025-02-02,BCBS,TX,Primary Care,Timely Filing,2366.15,Reworked,48,1,0
+C000699,2025-02-05,BCBS,NY,Orthopedics,Non-covered Service,1738.21,Paid After Rework,32,1,1
+C000700,2025-06-02,United,NY,Oncology,Eligibility,1068.67,Pending Review,39,0,0
